@@ -145,11 +145,17 @@ https://thesignlingo.com
 In order for the app to function correctly, the user must set up their own environment variables. The values of these .env vars can be found in the Product Vision Document in Notion. There should be a .env file containing the following:
 
 REACT_APP_OKTA_DOMAIN
+<br>
 REACT_APP_ISSUER
+<br>
 REACT_APP_CLIENT_ID
+<br>
 REACT_APP_REDIRECT_URI
+<br>
 REACT_APP_MESSAGES_URL
+<br>
 REACT_APP_BASE_URL
+<br>
 REACT_APP_BACK_END_BASE_URL
 
 # Content Licenses Here
